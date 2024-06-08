@@ -18,7 +18,8 @@ Com o uso do Canva, pude estilizar as páginas, adicionar imagens e fontes difer
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa no auxílio à disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI](https://github.com/pgustavo23/lab-natty-or-not/blob/main/EbookWatts_IA_generativa/DesbravandoOFuturo_WattsMobilidade.pdf)
+[LINK PARA DONWLOAD DO E-BOOK AQUI](https://github.com/pgustavo23/lab-natty-or-not/blob/main/EbookWatts_IA_generativa/DesbravandoOFuturo_WattsMobilidade.pdf)
+
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
